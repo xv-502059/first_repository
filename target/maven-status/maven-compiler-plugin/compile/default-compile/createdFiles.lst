@@ -1,0 +1,15 @@
+com\mage\crm\base\CrmConstant.class
+com\mage\crm\util\Base64Util.class
+com\mage\crm\util\CookieUtil.class
+com\mage\crm\model\MessageModel.class
+com\mage\crm\model\UserModel.class
+com\mage\crm\base\BaseController.class
+com\mage\crm\util\UserLoginUtil.class
+com\mage\crm\util\AssertUtil.class
+com\mage\crm\vo\User.class
+com\mage\crm\controller\IndexController.class
+com\mage\crm\util\Md5Util.class
+com\mage\crm\base\exceptions\ParamsException.class
+com\mage\crm\controller\UserController.class
+com\mage\crm\dao\UserDao.class
+com\mage\crm\service\UserService.class
